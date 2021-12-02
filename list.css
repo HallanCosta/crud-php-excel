@@ -1,0 +1,41 @@
+body {
+    padding: 30px;
+}
+
+.button-back {
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-size: 50px;
+}
+
+table thead {
+    background-color: black;
+}
+
+table thead th {
+    color: white;
+}
+
+table tbody tr td {
+    padding: 20px
+}
+
+table tbody tr:nth-child(2n) {
+    background: #e1e1e1;
+}
+
+table tbody tr td a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+}
+
+table tbody tr td .button-delete {
+    background-color: #ff4040; 
+}
+
+table tbody tr td .button-edit {
+    background-color: #1b32d5;
+}

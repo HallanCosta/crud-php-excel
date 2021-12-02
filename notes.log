@@ -1,0 +1,5 @@
+CRIAR BANCO DE DADOS COM O SEGUINTE COMANDO:
+CREATE DATABASE IF_NOT_EXIST fatec_eletiva_script;
+
+
+ou criar uma base de dados com esse nome "fatec_eletiva_script"
